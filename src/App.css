@@ -1,0 +1,20 @@
+main{
+  width: 100%;
+  height: 100vh;
+  float: left;
+}
+header{
+  width: 100%;
+  height: 33vh;
+  background: #d0ffdf;
+}
+section{
+  width: 100%;
+  height: 34vh;
+  background: #edbdff;
+}
+footer{
+  width: 100%;
+  height: 33vh;
+  background: #f2ffb4;
+}
